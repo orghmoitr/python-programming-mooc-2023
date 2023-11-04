@@ -3,3 +3,5 @@ __pycache__/
 test/
 tmc/
 *.yml
+*.txt
+*.csv
